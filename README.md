@@ -5,12 +5,12 @@ This is a repo for some extra HipChat Icons.
 * ![](icons/dennis.jpg) (ahahah)
 * ![](icons/lookatit.jpg) (lookatit)
 * ![](icons/yoda.jpg) (yoda)
-* ![](icons/dude.jpg) (dude) 
-* ![](icons/ginger-fury.jpg) (ginger) 
-* ![](icons/sc.png) (gogogo) 
-* ![](icons/bender.jpg) (bender) 
-* ![](icons/robot.png) (bot) 
-
+* ![](icons/dude.jpg) (dude)
+* ![](icons/ginger-fury.jpg) (ginger)
+* ![](icons/sc.png) (gogogo)
+* ![](icons/bender.jpg) (bender)
+* ![](icons/robot.png) (bot)
+* ![](icons/timeforthat.gif) (timeforthat)
 
 ##### Adding Icons
 
