@@ -14,7 +14,7 @@ This is a repo for some extra HipChat Icons.
 
 ##### Adding Icons
 
-If you wan't to add an icon please send me a Pull Request with a link to the image, and the text that will map to it.
+If you wan't to add an icon please send me a Pull Request with a link to the image, and the text that will map to it. Images need to be 30px by 30px in either .png or .jpg format
 
 
 ##### Default Icons
