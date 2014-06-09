@@ -15,3 +15,8 @@ This is a repo for some extra HipChat Icons.
 ##### Adding Icons
 
 If you wan't to add an icon please send me a Pull Request with a link to the image, and the text that will map to it.
+
+
+##### Default Icons
+
+* http://hipchat-emoticons.nyh.name/
