@@ -12,6 +12,7 @@ This is a repo for some extra HipChat Icons.
 * ![](icons/robot.png) (bot)
 * ![](icons/timeforthat.gif) (timeforthat)
 * ![](icons/hero.jpg) (hero)
+* ![](icons/false.jpg) (false)
 
 ##### Adding Icons
 
