@@ -8,6 +8,7 @@ This is a repo for some extra HipChat Icons.
 * ![](icons/dude.jpg) (dude)
 * ![](icons/ginger-fury.jpg) (ginger)
 * ![](icons/sc.png) (gogogo)
+* ![](icons/tmnt.png) (tmnt)
 * ![](icons/bender.jpg) (bender)
 * ![](icons/robot.png) (bot)
 * ![](icons/timeforthat.gif) (timeforthat)
