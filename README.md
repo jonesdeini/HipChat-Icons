@@ -15,6 +15,7 @@ This is a repo for some extra HipChat Icons.
 * ![](icons/hero.jpg) (hero)
 * ![](icons/false.jpg) (false)
 * ![](icons/ice_cube.png) (icecube)
+* ![](icons/genius.png) (genius)
 
 ##### Adding Icons
 
