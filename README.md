@@ -2,6 +2,7 @@
 
 This is a repo for some extra HipChat Icons.
 
+* ![](icons/borat.gif) (borat)
 * ![](icons/bender.jpg) (bender)
 * ![](icons/dennis.jpg) (ahahah)
 * ![](icons/dude.jpg) (dude)
